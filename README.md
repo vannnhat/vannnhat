@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> Văn Nhật ( dev tương lai )
+--> Văn Nhật ( Lion )
 
 GIF
 
@@ -39,6 +39,7 @@ Giới thiệu
 
 ❄ Tôi học tập và sinh sống tại Đồng Nai
 
+❄ Ước mơ trở thành developer
 Sở thích
 
 
