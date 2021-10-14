@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO WORLD 
 
 <!--
 **vannnhat/vannnhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Giới thiệu
 
 ❄ Giới tính: Nam
 
-❄ Gu: Con gái là được :v 
+❄ Gu: Con gái là được 
 
 ❄ Học sinh THPT
 
@@ -52,6 +52,6 @@ Thông tin liên lạc
 
 ❄ Gmail : vvovanbh@gmail.com
 
-❄ Github : Hoàng Đỗ Gia Nguyên
+❄ Github : Võ Văn Nhật
 
 ❄ Zalo : 0862618354(Văn Nhật)
